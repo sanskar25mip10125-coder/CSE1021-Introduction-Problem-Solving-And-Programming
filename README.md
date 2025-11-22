@@ -1,4 +1,7 @@
 # CSE1021-Introduction-Problem-Solving-And-Programming
+
+-->TITLE: THE PODCAST MANEGER
+
 --> Overview of the Project:
 
 This project is what I built for the Intro to Problem Solving and Programming course. It's a simple, command-line tool that lets you manually track the status of       episodes across different podcasts you follow. The main focus was really getting comfortable with nested data structures—specifically, a dictionary holding lists of    episode dictionaries—and making sure all the progress saves correctly to a file. It’s written entirely in standard Python 3.
