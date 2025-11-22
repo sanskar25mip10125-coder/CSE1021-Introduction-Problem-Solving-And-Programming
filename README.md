@@ -9,15 +9,21 @@ This project is what I built for the Intro to Problem Solving and Programming co
 -->Features I Included:
 
 ●	Add Channels & Episodes: Basic data entry for your podcasts and their episodes.
+
 ●	Mark Progress: Easily mark an episode as completed (it's case-insensitive, which was a good little quality-of-life feature to add).
+
 ●	Global Progress Report: Get a summary of how many episodes you've finished versus how many are pending.
+
 ●	Automatic Saving: All your progress is saved automatically when you select 'Save & Exit' and reloaded when you start the app.
 
 --> Technologies/Tools Used:
 
 ●	Language: Python 3.x
+
 ●	Libraries: Just the standard built-in json and os modules.
+
 ●	Environment: Command-Line Interface (CLI).
+
 ●	Data Storage: Local JSON file (podcast_data.json).
 
 --> Steps to Install & Run the Project:
