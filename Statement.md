@@ -9,11 +9,16 @@ As a user tracking multiple podcasts, it quickly gets confusing to remember whic
 The Podcast Episode Manager is scoped as a Command-Line Interface (CLI) application. It focuses entirely on data management and reporting. All data is stored in a local JSON file (podcast_data.json).
 In Scope:
 ●	Adding/removing (conceptually, by tracking status) channel and episode records.
+
 ●	Updating episode status (Pending \to Completed).
+
 ●	Calculating and displaying basic global progress metrics (totals and completion rate).
 Out of Scope:
+
 ●	Any form of internet connectivity (e.g., RSS feed reading).
+
 ●	Graphical User Interface (GUI).
+
 ●	Advanced features like deleting records, sorting, or date-based filtering.
 
 --> Target Users:
