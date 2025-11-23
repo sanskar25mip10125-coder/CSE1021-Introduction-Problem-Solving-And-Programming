@@ -1,6 +1,5 @@
 # CSE1021-Introduction-Problem-Solving-And-Programming
-
-## -->TITLE: THE PODCAST MANEGER
+# -->TITLE: THE PODCAST MANEGER
 
 ## --> Overview of the Project:
 
